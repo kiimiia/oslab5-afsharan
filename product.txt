@@ -1,0 +1,4 @@
+1,shampoo,30.0,14
+2,abmive,3.0,9
+3,lavashak,8.0,12
+4,chips,3.5,18
